@@ -1,2 +1,2 @@
-# StarFamilyTree
-StarFamilyTree — Universal Family Tree Platform
+# Star Shajara
+Star Shajara — Universal Family Tree Platform
