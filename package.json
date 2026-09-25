@@ -1,0 +1,25 @@
+{
+  "name": "star-shajara",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Star Shajara architectural scaffold — Universal Family Tree Platform",
+  "main": "dist/app.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/app.js",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/node": "^22.15.30",
+    "@types/pg": "^8.15.4",
+    "typescript": "^5.8.3"
+  }
+}
